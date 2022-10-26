@@ -202,3 +202,16 @@ button::before {
   button:hover::before {
     content: attr(hover-text);
   }
+.top_Image{
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    width: 90%;
+    border-radius: 20px;
+    margin: 20 auto;
+
+}
+.product_Name{
+    margin-top: -50;
+}
